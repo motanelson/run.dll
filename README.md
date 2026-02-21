@@ -1,1 +1,2 @@
-game get over then pin to catch the pin
+shell 32 bits run dll 32
+
