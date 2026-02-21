@@ -1,1 +1,1 @@
-rundll32.exe shell32.dll,ShellAbout
+rundll32.exe my.dll,myfunc %1
