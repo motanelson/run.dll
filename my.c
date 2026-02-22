@@ -1,4 +1,4 @@
-//.\gcc -shared -o my.dll my.c 
+//.\gcc -shared -m32 my.c -o my.dll -mwindows
 
 #include <windows.h>
 
